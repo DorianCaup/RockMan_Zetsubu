@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: bd290a84a09a25a4a9ac7dadd606a541
+timeCreated: 1431348298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Megaman_base3_0
+    21300002: Megaman_base3_1
+    21300004: Megaman_base3_2
+    21300006: Megaman_base3_3
+    21300008: Megaman_base3_4
+    21300010: Megaman_base3_7
+    21300012: Megaman_base3_8
+    21300014: Megaman_base3_9
+    21300016: Megaman_base3_10
+    21300018: Megaman_base3_11
+    21300020: Megaman_base3_12
+    21300022: Megaman_base3_13
+    21300024: Megaman_base3_14
+    21300026: Megaman_base3_15
+    21300028: Megaman_base3_22
+    21300030: Megaman_base3_30
+    21300032: Megaman_base3_31
+    21300034: Megaman_base3_32
+    21300036: Megaman_base3_33
+    21300038: Megaman_base3_34
+    21300040: Megaman_base3_37
+    21300042: Megaman_base3_38
+    21300044: Megaman_base3_39
+    21300046: Megaman_base3_41
+    21300048: Megaman_base3_42
+    21300050: Megaman_base3_43
+    21300052: Megaman_base3_44
+    21300054: Megaman_base3_46
+    21300056: Megaman_base3_47
+    21300058: Megaman_base3_49
+    21300060: Megaman_base3_51
+    21300062: Megaman_base3_53
+    21300064: Megaman_base3_5
+    21300066: Megaman_base3_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Megaman_base3_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 53
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 50
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 50
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 50
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 49
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 49
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 49
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 50
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 50
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 51
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 52
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_41
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_43
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_44
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_46
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 50
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Megaman_base3_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
